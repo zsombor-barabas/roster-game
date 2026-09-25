@@ -1,0 +1,11 @@
+# Keep text files normalized across Windows and macOS.
+* text=auto eol=lf
+
+# Godot assets that should not be modified as text.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.ogg binary
+*.wav binary
+*.mp3 binary
